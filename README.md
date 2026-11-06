@@ -57,15 +57,6 @@ Lilypad
 - **Runtime:** 102 minutes
 - **Rating:** PG[^2]
 
-{
-  "title": "Toy Story 5",
-  "studio": "Pixar Animation Studios",
-  "director": "Andrew Stanton",
-  "releaseDate": "2026-06-19",
-  "runtimeMinutes": 102,
-  "genres": ["Animation", "Family", "Comedy", "Adventure"]
-}
-
 - [x] Read the overview
 - [x] Check the cast
 - [ ] Watch the trailer
