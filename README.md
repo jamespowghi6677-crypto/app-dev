@@ -65,8 +65,6 @@ Lilypad
   "runtimeMinutes": 102,
   "genres": ["Animation", "Family", "Comedy", "Adventure"]
 }
-```
-
 
 - [x] Read the overview
 - [x] Check the cast
